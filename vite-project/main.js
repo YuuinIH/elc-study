@@ -11,7 +11,7 @@ document.querySelector('#button').addEventListener("click",()=>{
       rej('Error!')
     }, 1000);
     const value = document.querySelector('#input').value
-    fetch(`http://localhost:8080/hello?name=${value}`).then((v)=>{
+    fetch(`/api/hello?name=${value}`).then((v)=>{
       res(v.text())
     })
   })
