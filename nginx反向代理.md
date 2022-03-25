@@ -1,4 +1,4 @@
-这节课的实验环境:https://www.katacoda.com/courses/ubuntu/playground
+这节课的实验环境:https://www.katacoda.com/courses/ubuntu/playground2004
 
 
 
